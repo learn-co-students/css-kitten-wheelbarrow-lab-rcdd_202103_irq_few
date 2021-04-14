@@ -15,7 +15,21 @@
   top: 212px;
   left: 369px;
 }
+.kitty-1{
 
+}
+#kitty-2{
+
+}
+#basket img{
+
+}
+#ball + img{
+
+}
+img[alt="Kitty 5"]{
+
+}
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
 /*__write_selector_here__*/ {
