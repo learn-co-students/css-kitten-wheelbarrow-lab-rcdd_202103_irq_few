@@ -34,7 +34,7 @@ div#ball + img {
   left: 455px;
 }
 
-/* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
+/* Select the image that has an attribute value matching "Kitty 5" (using attribute selecto) */
 
 img[alt="Kitty 5"] {
   position: absolute;
